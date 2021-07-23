@@ -5,7 +5,7 @@ Chef des Opérations Northwood
 Directeur de la communication Northwood
 Gestionnaire du Discord Northwood
 Assistant de Direction Northwood
-Gestionnaire des Avis Northwood
+Gestionnaire des Retours Northwood
 Ressources Humaines Northwood
 Directeurs des Ressources Humaines Northwood
 Responsable des Annonces Northwood
@@ -44,3 +44,13 @@ Testeur de la qualité SCP:SL
 Testeur de la qualité en chef SCP:SL
 Abonné Twitch SCP:SL
 Audio Manager SCP:SL
+Coordinateur des Retours Northwood
+Superviseur de la vérification Northwood
+Superviseur officiel des serveurs SCP:SL
+Superviseur de la rétroaction Northwood
+Directeur des relations publiques de Northwood
+Responsable Artistique SCP:SL
+Animateur SCP:SL
+Aide SCP:SL
+Doubleur SCP:SL
+Investisseur de la Fondation SCP:SL
