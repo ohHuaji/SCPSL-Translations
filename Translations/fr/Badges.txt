@@ -1,11 +1,11 @@
-Directeur du Développement des affaires Northwood
+Directeur du Développement des Affaires Northwood
 Directeur Général Northwood
 Directeur de l'Information Northwood
 Chef des Opérations Northwood
-Directeur de la communication Northwood
+Directeur de la Communication Northwood
 Gestionnaire du Discord Northwood
 Assistant de Direction Northwood
-Gestionnaire des Retours Northwood
+Gestionnaire des Avis Northwood
 Ressources Humaines Northwood
 Directeurs des Ressources Humaines Northwood
 Responsable des Annonces Northwood
@@ -22,13 +22,13 @@ Artiste SCP:SL
 Développeur Backend SCP:SL
 Développement Backend en Chef SCP:SL
 Développeur SCP:SL
-Gagnant d'un événement SCP:SL
+Gagnant d'un Événement SCP:SL
 Développeur Full Stack SCP:SL
 Game Designer SCP:SL
 Développeur chargé du Gameplay SCP:SL
 Modérateur Global en chef SCP:SL
 Modérateur Global SCP:SL
-Game Designer en chef SCP:SL
+Game Designer en Chef SCP:SL
 Développeur du Gameplay en Chef SCP:SL
 Level Designer SCP:SL
 Partenaire SCP:SL
@@ -36,21 +36,21 @@ Donateur Patreon SCP:SL
 Programmeur SCP:SL
 Responsable de la Qualité SCP:SL
 Sound Designer SCP:SL
-Directeur du jeu SCP:SL
+Directeur du Jeu SCP:SL
 Responsable des serveurs Officiels SCP:SL
 Spécialiste des Vérifications Northwood
 Spécialiste du code Natif Northwood
-Testeur de la qualité SCP:SL
-Testeur de la qualité en chef SCP:SL
+Testeur de la Qualité SCP:SL
+Testeur de la Qualité en Chef SCP:SL
 Abonné Twitch SCP:SL
 Audio Manager SCP:SL
-Coordinateur des Retours Northwood
-Superviseur de la vérification Northwood
-Superviseur officiel des serveurs SCP:SL
-Superviseur de la rétroaction Northwood
+Coordinateur des Avis Northwood
+Superviseur des Vérifications Northwood
+Superviseur Officiel des Serveurs SCP:SL
+Superviseur des Avis Northwood
 Directeur des relations publiques de Northwood
 Responsable Artistique SCP:SL
 Animateur SCP:SL
-Aide SCP:SL
+Support SCP:SL
 Doubleur SCP:SL
 Investisseur de la Fondation SCP:SL
