@@ -48,9 +48,3 @@ Northwood Feedback Coordinator
 Northwood Verification Supervisor
 SCP:SL Official Server Supervisor
 Northwood Feedback Supervisor
-Northwood Public Relations Director
-SCP:SL Art Manager
-SCP:SL Animator
-SCP:SL Helper
-SCP:SL Voice Actor
-SCP:SL Foundation Investor
