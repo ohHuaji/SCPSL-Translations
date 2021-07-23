@@ -6,7 +6,7 @@
 5~Carte d'accès de Soldat Epsilon-11
 6~Carte d'accès d'Ingénieur de confinement
 7~Carte d'accès de Sergent Epsilon-11
-8~Carte d'accès de Capitaine Epsilon-11 
+8~Carte d'accès de Capitaine Epsilon-11
 9~Carte d'accès du Manager du site
 10~Dispositif d'accès de l'Insurrection du Chaos
 11~Carte d'accès niveau O5
