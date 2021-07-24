@@ -16,7 +16,7 @@ Personnel Northwood
 Gestionnaire Steam Northwood
 Administrateur Système Northwood
 Gestionnaire Wiki Northwood
-Directeur Artistique SCP:SL
+Manager Artistique SCP:SL
 Superviseur Artistique SCP:SL
 Artiste SCP:SL
 Développeur Backend SCP:SL
@@ -48,7 +48,13 @@ Coordinateur des Avis Northwood
 Superviseur des Vérifications Northwood
 Superviseur Officiel des Serveurs SCP:SL
 Superviseur des Avis Northwood
-Directeur des relations publiques de Northwood
+Responsable de la Vérification Northwood
+Gestionnaire de Bot Northwood
+Gestionnaire de Wiki Northwood
+Directeur de Traduction Northwood
+Responsable Game Design SCP:SL
+Animateur SCP:SL
+Directeur des Relations Publiques de Northwood
 Responsable Artistique SCP:SL
 Animateur SCP:SL
 Support SCP:SL
