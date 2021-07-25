@@ -30,7 +30,7 @@ Syncronisation Verticale
 Limite Images/s
 Off
 Qualité des textures
-Quantité maximale de sang
+Decals
 Ombres
 Qualité des ombres
 Distance des ombres
@@ -86,4 +86,8 @@ LOUER UN SERVEUR
 ANNULER
 Seconde
 Pour avoir joué à notre jeu !
-Barre des tâches à l'apparition
+Flash de l'Icône au spawn (Barre des tâches)
+Occlusion Ambiante
+Lumières Volumétriques
+Bloom
+Flash de l'Icône au spawn (Barre des tâches)
